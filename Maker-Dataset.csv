@@ -1,0 +1,902 @@
+product_idea,category,skill_level,available_materials,available_tools,budget_zar,estimated_cost_zar,build_feasible,build_time,revisions_needed
+Desk,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1855,598,YES,1-2 days,1
+Bookcase,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",4266,1793,YES,1-2 days,0
+Toolbox,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",1150,484,YES,1-2 days,0
+Window Seat,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",7571,2576,YES,2-3 days,0
+Folding Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",2032,731,YES,1-2 days,3
+Planter Box,outdoor,Intermediate,"treated pine, galvanised screws, outdoor paint, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",1308,648,YES,4-8 hours,3
+Bird Feeder,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",205,78,YES,1-3 hours,1
+Secretary Desk,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",9175,3141,YES,3-5 days,0
+Desk,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",4229,1939,NO,1-2 days,2
+Computer Desk,tables,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",4526,1411,NO,1-2 days,2
+Bird Feeder,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","band saw, drill press, orbital sander, clamps, chisel, mallet",310,148,YES,1-3 hours,0
+Gazebo,outdoor,Advanced,"treated pine, galvanised screws, outdoor paint, sandpaper","table saw, jointer, planer, router, drill press, orbital sander, clamps",13158,5140,YES,5-7 days,2
+Canopy Bed,bedroom,Advanced,"pine boards, wood screws, sandpaper, wood stain","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",12813,4186,YES,4-6 days,2
+Sideboard / Buffet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5017,2439,YES,3-5 days,0
+Jewelry Box,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",827,450,YES,4-8 hours,0
+Step Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, hammer, tape measure, sandpaper, clamps",765,463,NO,4-8 hours,3
+Bench,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",2186,903,YES,1-2 days,0
+Chest of Drawers,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",6125,2294,YES,3-4 days,2
+Spice Rack,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",764,233,NO,2-4 hours,1
+Desk,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",3935,1712,YES,1-2 days,0
+Puzzle,kids,Intermediate,"birch plywood, non-toxic finish, sandpaper, wood screws","miter saw, drill, orbital sander, clamps, router, level",864,329,YES,4-8 hours,2
+Folding Step Ladder,outdoor,Advanced,"meranti boards, exterior glue, galvanised nails, wood preservative","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2987,849,YES,4-8 hours,1
+Stool,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","jigsaw, drill, tape measure, sandpaper, square",1366,458,YES,3-5 hours,3
+Storage Bench,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",2003,896,YES,1-2 days,3
+Step Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, hammer, tape measure, clamps, level",557,174,YES,4-8 hours,0
+Armoire,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",6275,2049,YES,5-7 days,1
+Console Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1871,859,YES,1-2 days,0
+Mirror Frame,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",674,294,YES,2-4 hours,0
+Arbor,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","hand saw, chisel, mallet, sandpaper, tape measure",2923,1457,YES,1-2 days,0
+Wall-Mounted Shelves,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","jigsaw, drill, tape measure, sandpaper, square",333,205,NO,2-4 hours,1
+Adirondack Chair,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","circular saw, hammer, tape measure, clamps, level",3691,1701,YES,1-2 days,3
+Floating Shelves,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",1120,503,YES,2-4 hours,0
+Curio Cabinet,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",6980,2773,YES,3-5 days,0
+Wine Rack,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1045,370,YES,4-8 hours,0
+Changing Table,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",2958,987,YES,2-3 days,3
+Chaise Lounge,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9576,2594,YES,3-5 days,0
+End Table,tables,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",852,289,YES,4-8 hours,0
+Pallet Furniture,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",1394,617,YES,1-2 days,1
+Trellis,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, hammer, tape measure, clamps, level",551,260,YES,3-6 hours,0
+Window Seat,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",2542,1282,YES,2-3 days,3
+Workbench,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",2856,980,YES,2-3 days,3
+Wine Rack,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, drill, orbital sander, clamps, router, square",995,512,NO,4-8 hours,1
+Wall Art / Wood Carving,decorative,Intermediate,"hardwood scraps, epoxy resin, sandpaper, oil finish","miter saw, drill, orbital sander, clamps, router, level",2474,806,YES,1-3 days,0
+Dog House,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",2148,998,YES,1-2 days,0
+Gazebo,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7885,3218,YES,5-7 days,0
+Knife Block,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",390,184,NO,2-3 hours,1
+China Cabinet,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",5134,2284,YES,4-6 days,0
+Wardrobe,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9233,2335,YES,4-6 days,0
+Trellis,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",386,233,YES,3-6 hours,2
+Floating Shelves,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",995,507,YES,2-4 hours,0
+Knife Block,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",712,261,NO,2-3 hours,3
+Jewelry Box,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",723,316,NO,4-8 hours,2
+Planter Box,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","table saw, drill, orbital sander, clamps, router, square",675,320,YES,4-8 hours,3
+Changing Table,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",3178,1243,YES,2-3 days,3
+Mirror Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",564,258,YES,2-4 hours,3
+Butcher Block Countertop,tables,Advanced,"oak lumber, dowels, wood glue, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",8403,3575,YES,2-4 days,1
+Pet Ramp,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",748,223,YES,3-6 hours,0
+Bench,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",2689,865,YES,1-2 days,3
+Memory Box / Hope Chest,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",4079,1384,YES,1-2 days,0
+Birdhouse,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","jigsaw, drill, tape measure, sandpaper, square",406,191,NO,2-4 hours,2
+Folding Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",3129,966,YES,1-2 days,1
+Arbor,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2179,1135,YES,1-2 days,0
+Serving Tray,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","hand saw, chisel, mallet, sandpaper, tape measure",343,147,YES,2-4 hours,3
+Bookshelf,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1317,430,YES,1-2 days,0
+Changing Table,bedroom,Beginner,"oak lumber, dowels, wood glue, varnish","circular saw, hammer, tape measure, clamps, level",5094,2016,YES,2-3 days,1
+Storage Bench,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",2855,814,YES,1-2 days,0
+Bed Frame,bedroom,Advanced,"meranti boards, pocket screws, sandpaper, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",4684,1277,NO,2-3 days,3
+Armchair,seating,Advanced,"meranti boards, dowels, sandpaper, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7233,3057,YES,3-4 days,3
+Coat Rack,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",480,271,YES,2-4 hours,0
+Pet Ramp,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","hand saw, chisel, mallet, sandpaper, tape measure",452,265,YES,3-6 hours,0
+Curio Cabinet,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",7690,2258,YES,3-5 days,3
+Folding Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",2042,875,YES,1-2 days,1
+Sideboard / Buffet,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",5208,2555,YES,3-5 days,1
+Sideboard / Buffet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, jointer, planer, router, drill press, orbital sander, clamps",3502,1372,YES,3-5 days,0
+Butcher Block Countertop,tables,Advanced,"oak lumber, dowels, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9323,3066,NO,2-4 days,1
+Cutting Board,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","circular saw, hammer, tape measure, clamps, level",298,115,YES,2-4 hours,0
+Dollhouse,kids,Advanced,"pine boards, non-toxic paint, sandpaper, wood glue","table saw, jointer, planer, router, drill press, orbital sander, clamps",5575,1993,YES,3-5 days,3
+Wooden Sign,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","circular saw, hammer, tape measure, clamps, level",300,95,YES,2-4 hours,0
+Workbench,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",2869,1442,YES,2-3 days,0
+Bench with Backrest,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",4176,1482,YES,1-2 days,0
+Planter Box,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, hammer, tape measure, clamps, level",1005,501,YES,4-8 hours,2
+High Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",4152,1432,NO,2-3 days,2
+High Chair,seating,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5076,1823,YES,2-3 days,1
+Workbench,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2971,1324,YES,2-3 days,0
+Window Seat,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4207,1515,YES,2-3 days,2
+Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",1064,556,YES,3-5 hours,0
+Bed Frame,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",6250,2809,YES,2-3 days,0
+Folding Chair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",2671,808,YES,1-2 days,3
+Toy Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",1166,611,YES,1-2 days,2
+Toy Box,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",796,253,YES,1-2 days,0
+China Cabinet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",8014,2602,NO,4-6 days,3
+Porch Swing,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",3983,1499,YES,1-2 days,0
+Loft Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",8046,2491,YES,3-5 days,0
+Sideboard / Buffet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3994,2200,YES,3-5 days,3
+Bookcase,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","miter saw, drill, orbital sander, clamps, router, level",4920,1663,YES,1-2 days,0
+High Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",5819,2069,YES,2-3 days,3
+Standing Desk,tables,Advanced,"pine boards, metal legs, wood glue, wood oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",6678,1919,YES,2-3 days,0
+Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",495,172,YES,3-5 hours,0
+Mirror Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","jigsaw, drill, tape measure, sandpaper, square",333,167,YES,2-4 hours,0
+Pergola,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",12625,4082,YES,3-5 days,2
+Clock,decorative,Beginner,"hardwood scraps, epoxy resin, sandpaper, oil finish","hand saw, hammer, tape measure, sandpaper, clamps",1057,374,YES,4-8 hours,0
+Dresser,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",7162,2385,YES,3-5 days,0
+Outdoor Lounge Chair,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",3937,1298,NO,1-2 days,2
+Toolbox,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",1554,539,YES,1-2 days,3
+Workbench Vise Mounting,workshop,Intermediate,"pine boards, wood screws, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",2002,804,YES,4-8 hours,0
+Gazebo,outdoor,Intermediate,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",17838,4842,YES,5-7 days,0
+Serving Tray,decorative,Beginner,"hardwood scraps, epoxy resin, sandpaper, oil finish","hand saw, hammer, tape measure, sandpaper, clamps",622,237,YES,2-4 hours,0
+Changing Table,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","circular saw, router, orbital sander, drill, clamps, tape measure",4450,1770,YES,2-3 days,2
+Footboard,bedroom,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",1245,505,YES,4-8 hours,0
+Planter Box,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","circular saw, hammer, tape measure, clamps, level",815,259,YES,4-8 hours,0
+China Cabinet,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",9108,3351,YES,4-6 days,1
+Spice Rack,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","miter saw, drill, orbital sander, clamps, router, level",388,128,YES,2-4 hours,3
+Raised Garden Bed,outdoor,Advanced,"treated pine, galvanised screws, outdoor paint, sandpaper","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1517,642,YES,1-2 days,1
+Dining Chair,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",2973,1520,YES,1-2 days,0
+Wine Rack,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",832,409,YES,4-8 hours,0
+Step Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, chisel, mallet, sandpaper, tape measure",606,237,YES,4-8 hours,3
+Adirondack Chair,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",5220,1695,YES,1-2 days,0
+Sawhorse,workshop,Beginner,"pine boards, wood screws, sandpaper, linseed oil","circular saw, hammer, tape measure, clamps, level",759,368,YES,3-5 hours,0
+Writing Desk,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",2123,845,YES,1-2 days,0
+Display Cabinet,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6536,2423,YES,3-5 days,0
+Patio Table,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",2475,1041,YES,1-2 days,3
+Dresser,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5491,1647,NO,3-5 days,1
+Outdoor Lounge Chair,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",4055,1558,YES,1-2 days,0
+Utensil Holder,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",292,93,YES,1-2 hours,1
+Crib,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",7546,2678,YES,3-5 days,3
+Ladder Shelf,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",747,276,NO,4-8 hours,1
+Standing Desk,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",6449,2575,YES,2-3 days,0
+Bench with Backrest,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",2138,863,YES,1-2 days,0
+Footboard,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1661,636,YES,4-8 hours,3
+Curio Cabinet,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",4942,1892,NO,3-5 days,2
+Mirror Frame,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","jigsaw, drill, tape measure, sandpaper, square",769,333,NO,2-4 hours,2
+Folding Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",1887,688,YES,1-2 days,0
+Keepsake Box,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, chisel, mallet, sandpaper, tape measure",873,340,YES,2-4 hours,0
+Linen Press,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",11434,3732,NO,4-6 days,3
+Workbench,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",3608,1487,NO,2-3 days,1
+Cutting Board,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",383,173,YES,2-4 hours,3
+Linen Press,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",12766,4246,YES,4-6 days,2
+Ottoman,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",3082,1352,YES,1-2 days,0
+Bar Stool,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",2528,1004,NO,1-2 days,1
+Bunk Bed,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",7255,3007,YES,3-5 days,0
+Curio Cabinet,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9874,3034,NO,3-5 days,1
+Bookcase,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",2720,1133,YES,1-2 days,1
+Picnic Table,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","jigsaw, drill, tape measure, sandpaper, square",3675,1629,YES,1-2 days,0
+Outdoor Lounge Chair,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4222,1913,YES,1-2 days,3
+Nightstand,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",1061,437,YES,4-8 hours,0
+Changing Table,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",3118,1038,YES,2-3 days,0
+Spice Rack,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",764,256,YES,2-4 hours,0
+Workbench Vise Mounting,workshop,Beginner,"meranti boards, lag screws, sandpaper, wood stain","jigsaw, drill, tape measure, sandpaper, square",1021,414,YES,4-8 hours,0
+Display Cabinet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",10021,2873,YES,3-5 days,3
+Chest of Drawers,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5632,2941,NO,3-4 days,2
+Console Table,tables,Advanced,"oak lumber, dowels, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",2172,1120,NO,1-2 days,1
+Console Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",1870,778,YES,1-2 days,2
+Wall Art / Wood Carving,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",1570,424,YES,1-3 days,1
+High Chair,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3836,1135,NO,2-3 days,2
+Bench,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",1582,746,YES,1-2 days,0
+Bird Feeder,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, hammer, tape measure, clamps, level",309,152,YES,1-3 hours,0
+Secretary Desk,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",6006,2801,YES,3-5 days,0
+Standing Desk,tables,Advanced,"pine boards, wood screws, sandpaper, wood stain","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5538,2553,NO,2-3 days,2
+Trellis,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, hammer, tape measure, sandpaper, clamps",649,256,NO,3-6 hours,2
+Dog House,outdoor,Advanced,"meranti boards, exterior glue, galvanised nails, wood preservative","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3382,1093,YES,1-2 days,2
+Standing Desk,tables,Advanced,"pine boards, metal legs, wood glue, wood oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",8688,2255,YES,2-3 days,0
+Credenza,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",6779,2771,YES,3-5 days,0
+Toy Box,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","jigsaw, drill, tape measure, sandpaper, square",748,340,YES,1-2 days,0
+Workbench Vise Mounting,workshop,Intermediate,"pine boards, wood screws, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",1332,684,NO,4-8 hours,2
+Wall-Mounted Shelves,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",1122,409,YES,2-4 hours,0
+Sideboard / Buffet,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, drill, orbital sander, clamps, router, level",7574,3665,YES,3-5 days,1
+Coat Rack,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","jigsaw, drill, tape measure, sandpaper, square",538,303,YES,2-4 hours,0
+Dining Table,tables,Advanced,"pine boards, metal legs, wood glue, wood oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",6254,1972,YES,2-4 days,0
+Picnic Table,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","hand saw, hammer, tape measure, sandpaper, clamps",4078,1631,YES,1-2 days,0
+Clock,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",940,405,YES,4-8 hours,0
+Sawhorse,workshop,Beginner,"pine boards, wood screws, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",885,435,YES,3-5 hours,0
+Cutting Board,decorative,Beginner,"pine off-cuts, nails, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",403,189,YES,2-4 hours,3
+Wine Rack,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1183,335,NO,4-8 hours,2
+Writing Desk,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","miter saw, drill, orbital sander, clamps, router, level",1814,649,YES,1-2 days,0
+Crib,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",12080,3874,YES,3-5 days,1
+Picture Frame,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",168,57,YES,1-3 hours,0
+Dollhouse,kids,Advanced,"birch plywood, non-toxic finish, sandpaper, wood screws","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5674,2479,YES,3-5 days,0
+Tool Chest,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",2868,1145,YES,2-3 days,0
+Pet Ramp,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",1297,408,YES,3-6 hours,0
+End Table,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","circular saw, hammer, tape measure, clamps, level",975,417,YES,4-8 hours,0
+Standing Desk,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",4983,1981,YES,2-3 days,0
+Coffee Table,tables,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",1679,937,YES,1-2 days,0
+Shoe Rack,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, hammer, tape measure, clamps, level",738,447,YES,3-5 hours,3
+Wall-Mounted Shelves,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1185,436,YES,2-4 hours,0
+Coat Rack,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",790,384,YES,2-4 hours,0
+Toolbox,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","jigsaw, drill, tape measure, sandpaper, square",620,268,YES,1-2 days,0
+Puzzle,kids,Advanced,"pine boards, non-toxic paint, sandpaper, wood glue","table saw, jointer, planer, router, drill press, orbital sander, clamps",611,282,YES,4-8 hours,0
+Kitchen Island,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5503,1516,YES,3-5 days,0
+China Cabinet,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",4469,2009,YES,4-6 days,0
+Wall Art / Wood Carving,decorative,Advanced,"walnut off-cuts, danish oil, sandpaper, beeswax","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",793,330,NO,1-3 days,1
+Console Table,tables,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",2589,1188,NO,1-2 days,3
+Picnic Table,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",3785,1565,NO,1-2 days,1
+Toy Box,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",1075,487,YES,1-2 days,0
+Pallet Furniture,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",555,205,YES,1-2 days,0
+Cutting Board,decorative,Advanced,"pine boards, router bits, sandpaper, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",622,257,YES,2-4 hours,0
+Workbench Vise Mounting,workshop,Advanced,"meranti boards, lag screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1522,617,YES,4-8 hours,0
+Footboard,bedroom,Beginner,"plywood sheets, pine trim, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",1332,675,YES,4-8 hours,0
+Linen Press,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",6192,1784,YES,4-6 days,0
+Standing Desk,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",6267,2229,YES,2-3 days,0
+Dresser,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",8474,3245,YES,3-5 days,3
+Shoe Rack,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",1073,520,YES,3-5 hours,2
+Wall Art / Wood Carving,decorative,Advanced,"pine off-cuts, nails, sandpaper, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2513,858,YES,1-3 days,0
+Dresser,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",6495,2322,YES,3-5 days,2
+Folding Step Ladder,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","band saw, drill press, orbital sander, clamps, chisel, mallet",2728,848,NO,4-8 hours,3
+Step Stool,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",828,375,YES,4-8 hours,1
+Pallet Furniture,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",583,302,YES,1-2 days,3
+Toolbox,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",2027,586,YES,1-2 days,0
+Corner Shelves,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, drill, orbital sander, clamps, router, square",480,176,YES,3-5 hours,2
+Birdhouse,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",211,127,YES,2-4 hours,0
+Wardrobe,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",11794,3742,YES,4-6 days,0
+Puzzle,kids,Beginner,"pine boards, non-toxic paint, sandpaper, wood glue","hand saw, hammer, tape measure, sandpaper, clamps",313,132,YES,4-8 hours,1
+Pet Ramp,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",546,282,YES,3-6 hours,1
+Picture Frame,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","table saw, drill, orbital sander, clamps, router, square",198,70,YES,1-3 hours,2
+Hall Tree,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","circular saw, router, orbital sander, drill, clamps, tape measure",2617,1212,YES,1-2 days,0
+Bar Stool,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",1244,555,YES,1-2 days,2
+Cutting Board,decorative,Beginner,"pine off-cuts, nails, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",649,376,YES,2-4 hours,2
+Window Seat,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",5212,1736,YES,2-3 days,3
+Rocking Chair,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4866,1393,YES,3-5 days,0
+Curio Cabinet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, jointer, planer, router, drill press, orbital sander, clamps",7289,2395,YES,3-5 days,1
+Bread Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",566,358,YES,2-4 hours,0
+China Cabinet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, jointer, planer, router, drill press, orbital sander, clamps",9956,2532,YES,4-6 days,1
+Dining Table,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",4437,2072,YES,2-4 days,2
+Bookshelf,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",882,391,YES,1-2 days,0
+Platform Bed,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",3805,1142,YES,2-3 days,1
+Folding Step Ladder,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1607,602,YES,4-8 hours,3
+Toolbox,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",1362,760,YES,1-2 days,3
+Writing Desk,tables,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",1158,542,YES,1-2 days,0
+Footboard,bedroom,Beginner,"meranti boards, pocket screws, sandpaper, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",1215,554,YES,4-8 hours,1
+Bird Feeder,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",441,159,YES,1-3 hours,2
+Armoire,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",5047,2345,YES,5-7 days,0
+Arbor,outdoor,Advanced,"meranti boards, exterior glue, galvanised nails, wood preservative","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1569,461,YES,1-2 days,0
+Coat Rack,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",533,272,YES,2-4 hours,0
+Armchair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",5001,2523,YES,3-4 days,0
+Linen Press,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",5988,3677,NO,4-6 days,2
+Folding Step Ladder,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",1541,688,NO,4-8 hours,3
+Credenza,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5289,2572,YES,3-5 days,0
+Dining Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",7001,2302,YES,2-4 days,1
+Sawhorse,workshop,Beginner,"pine boards, wood screws, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",535,308,NO,3-5 hours,1
+Memory Box / Hope Chest,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",2378,1237,NO,1-2 days,2
+Corner Shelves,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",705,341,YES,3-5 hours,0
+Adirondack Chair,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3899,1546,YES,1-2 days,2
+Bunk Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",8189,3182,NO,3-5 days,1
+Bar Stool,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",2413,769,YES,1-2 days,0
+Wooden Sign,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",183,98,YES,2-4 hours,0
+Armchair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",3638,1206,YES,3-4 days,0
+Chest of Drawers,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",3738,1287,YES,3-4 days,1
+Workbench Vise Mounting,workshop,Advanced,"pine boards, wood screws, sandpaper, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",1674,453,YES,4-8 hours,2
+Bar Stool,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",1067,396,YES,1-2 days,0
+Tool Chest,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",3283,1776,YES,2-3 days,3
+Bar Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",811,388,YES,1-2 days,1
+Window Seat,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5087,1814,YES,2-3 days,0
+Mirror Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",598,292,YES,2-4 hours,1
+Linen Press,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",8199,3197,YES,4-6 days,3
+Dollhouse,kids,Advanced,"hardwood scraps, child-safe varnish, sandpaper, dowels","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6286,1555,NO,3-5 days,1
+Clock,decorative,Beginner,"pine off-cuts, nails, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",802,351,YES,4-8 hours,1
+Outdoor Lounge Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",2448,1231,YES,1-2 days,2
+Changing Table,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",5398,1903,YES,2-3 days,1
+Standing Desk,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9864,3153,YES,2-3 days,0
+Platform Bed,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",5336,2565,YES,2-3 days,2
+Keepsake Box,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, chisel, mallet, sandpaper, tape measure",891,351,YES,2-4 hours,0
+Stool,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",776,306,YES,3-5 hours,0
+Ladder Shelf,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, hammer, tape measure, sandpaper, clamps",712,268,YES,4-8 hours,2
+Knife Block,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",234,97,YES,2-3 hours,0
+Mirror Frame,decorative,Intermediate,"hardwood scraps, epoxy resin, sandpaper, oil finish","circular saw, router, orbital sander, drill, clamps, tape measure",309,117,NO,2-4 hours,3
+Butcher Block Countertop,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",6788,1978,NO,2-4 days,2
+Footstool,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",1390,563,NO,3-5 hours,2
+Rocking Chair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",9878,3954,YES,3-5 days,0
+Armoire,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",9885,3313,YES,5-7 days,0
+Garden Bench,outdoor,Intermediate,"treated pine, galvanised screws, outdoor paint, sandpaper","table saw, drill, orbital sander, clamps, router, square",1232,553,YES,1-2 days,0
+Gazebo,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","table saw, drill, orbital sander, clamps, router, square",7486,2897,YES,5-7 days,2
+Utensil Holder,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",344,151,YES,1-2 hours,0
+Linen Press,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9306,3532,YES,4-6 days,0
+Footstool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, chisel, mallet, sandpaper, tape measure",848,355,YES,3-5 hours,0
+Chicken Coop,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","miter saw, drill, orbital sander, clamps, router, level",4395,1535,YES,2-3 days,0
+China Cabinet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",10147,3141,NO,4-6 days,1
+Loft Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",4840,1717,YES,3-5 days,0
+Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",755,267,YES,3-5 hours,1
+Credenza,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",9209,2697,NO,3-5 days,1
+Footstool,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, chisel, mallet, sandpaper, tape measure",739,334,YES,3-5 hours,0
+Mirror Frame,decorative,Beginner,"pine off-cuts, nails, sandpaper, paint","hand saw, chisel, mallet, sandpaper, tape measure",571,188,YES,2-4 hours,0
+Computer Desk,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",2946,1553,YES,1-2 days,0
+Cutting Board,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",519,181,YES,2-4 hours,0
+Canopy Bed,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","miter saw, drill, orbital sander, clamps, router, level",6168,3678,YES,4-6 days,0
+Keepsake Box,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","miter saw, drill, orbital sander, clamps, router, level",712,329,YES,2-4 hours,1
+Mirror Frame,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","circular saw, hammer, tape measure, clamps, level",451,149,YES,2-4 hours,1
+Desk,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",3030,1337,YES,1-2 days,1
+Butcher Block Countertop,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",12443,3545,YES,2-4 days,3
+Toolbox,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",1556,626,YES,1-2 days,0
+Wine Rack,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",1099,383,YES,4-8 hours,0
+Butcher Block Countertop,tables,Advanced,"pine boards, wood screws, sandpaper, wood stain","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",10922,4267,NO,2-4 days,3
+Bunk Bed,bedroom,Beginner,"oak lumber, dowels, wood glue, varnish","circular saw, hammer, tape measure, clamps, level",3949,1899,NO,3-5 days,3
+Console Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",2436,928,YES,1-2 days,1
+Dog House,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",3135,1052,YES,1-2 days,1
+Footboard,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",689,376,NO,4-8 hours,2
+Linen Press,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",5329,1636,NO,4-6 days,3
+Folding Chair,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",1586,615,YES,1-2 days,0
+Loft Bed,bedroom,Advanced,"meranti boards, pocket screws, sandpaper, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",8572,3297,YES,3-5 days,2
+Wall Art / Wood Carving,decorative,Intermediate,"pine boards, router bits, sandpaper, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",1198,397,YES,1-3 days,0
+Bed Frame,bedroom,Intermediate,"meranti boards, pocket screws, sandpaper, lacquer","table saw, drill, orbital sander, clamps, router, square",4112,1831,YES,2-3 days,0
+Loft Bed,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",8693,2738,YES,3-5 days,2
+Dining Table,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","jigsaw, drill, tape measure, sandpaper, square",3522,1678,YES,2-4 days,0
+Folding Chair,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",2532,627,NO,1-2 days,1
+Hall Tree,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",2796,1048,YES,1-2 days,0
+Desk,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",3362,1302,YES,1-2 days,0
+Garden Bench,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",1344,464,YES,1-2 days,0
+Dresser,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","miter saw, drill, orbital sander, clamps, router, level",8106,3057,NO,3-5 days,1
+Utensil Holder,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",467,183,YES,1-2 hours,0
+Bed Frame,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",4756,1665,YES,2-3 days,0
+Bookcase,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",3821,989,YES,1-2 days,2
+Nightstand,bedroom,Beginner,"plywood sheets, pine trim, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",1199,587,YES,4-8 hours,2
+Pergola,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","table saw, jointer, planer, router, drill press, orbital sander, clamps",11052,4079,YES,3-5 days,3
+Footstool,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",900,538,YES,3-5 hours,0
+Butcher Block Countertop,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5553,2911,YES,2-4 days,0
+Utensil Holder,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, chisel, mallet, sandpaper, tape measure",406,137,YES,1-2 hours,3
+Raised Garden Bed,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","miter saw, drill, orbital sander, clamps, router, level",1427,490,YES,1-2 days,0
+Headboard,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","circular saw, router, orbital sander, drill, clamps, tape measure",1175,623,YES,4-8 hours,3
+Folding Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","circular saw, router, orbital sander, drill, clamps, tape measure",3032,1208,YES,1-2 days,0
+Rocking Chair,seating,Advanced,"meranti boards, dowels, sandpaper, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",4869,1767,NO,3-5 days,1
+Secretary Desk,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","miter saw, drill, orbital sander, clamps, router, level",6318,2544,YES,3-5 days,0
+Toolbox,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",1215,623,YES,1-2 days,2
+Picnic Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",2303,1221,YES,1-2 days,2
+Dresser,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, hammer, tape measure, sandpaper, clamps",5387,2811,YES,3-5 days,3
+Armoire,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, drill, orbital sander, clamps, router, level",11532,3615,YES,5-7 days,0
+Memory Box / Hope Chest,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","circular saw, router, orbital sander, drill, clamps, tape measure",1626,906,YES,1-2 days,0
+End Table,tables,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, chisel, mallet, sandpaper, tape measure",835,435,YES,4-8 hours,0
+Wardrobe,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",7615,3338,YES,4-6 days,0
+Tool Chest,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",2081,1165,YES,2-3 days,0
+Tool Chest,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","miter saw, drill, orbital sander, clamps, router, level",2001,944,YES,2-3 days,0
+Picnic Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",2537,1115,YES,1-2 days,0
+Adirondack Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",4027,1393,YES,1-2 days,3
+Wall Art / Wood Carving,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",2147,770,YES,1-3 days,0
+Bird Feeder,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","jigsaw, drill, tape measure, sandpaper, square",179,115,YES,1-3 hours,0
+Corner Shelves,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",866,349,YES,3-5 hours,0
+Spice Rack,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",263,116,YES,2-4 hours,0
+Bench with Backrest,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3701,938,NO,1-2 days,1
+Toy Box,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1027,409,YES,1-2 days,3
+Wardrobe,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",5521,2360,YES,4-6 days,0
+Coffee Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",2035,987,NO,1-2 days,1
+Wooden Toys,kids,Beginner,"hardwood scraps, child-safe varnish, sandpaper, dowels","jigsaw, drill, tape measure, sandpaper, square",248,104,NO,2-4 hours,2
+Armoire,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",7526,1978,YES,5-7 days,0
+Standing Desk,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",6587,2276,YES,2-3 days,0
+Workbench,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",2818,1281,YES,2-3 days,0
+Ladder Shelf,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",993,409,NO,4-8 hours,3
+Display Cabinet,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, drill, orbital sander, clamps, router, level",7133,3365,NO,3-5 days,1
+Pet Ramp,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","jigsaw, drill, tape measure, sandpaper, square",1031,447,YES,3-6 hours,0
+Bar Stool,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",907,346,YES,1-2 days,0
+Coffee Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",2287,1200,YES,1-2 days,0
+Headboard,bedroom,Intermediate,"meranti boards, pocket screws, sandpaper, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",1842,858,YES,4-8 hours,1
+Hall Tree,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",1418,597,YES,1-2 days,0
+Rocking Chair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",5807,2092,NO,3-5 days,3
+Nightstand,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",2068,678,YES,4-8 hours,0
+Bench,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",2076,960,YES,1-2 days,0
+Adirondack Chair,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",3208,1168,YES,1-2 days,0
+Hall Tree,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",1491,887,YES,1-2 days,0
+Dollhouse,kids,Advanced,"birch plywood, non-toxic finish, sandpaper, wood screws","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5810,2153,YES,3-5 days,0
+Bar Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, hammer, tape measure, sandpaper, clamps",916,317,YES,1-2 days,0
+Rocking Chair,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",4824,1742,YES,3-5 days,0
+Canopy Bed,bedroom,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",10587,5000,YES,4-6 days,0
+Ottoman,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",1789,929,YES,1-2 days,0
+Spice Rack,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",790,284,YES,2-4 hours,1
+Serving Tray,decorative,Advanced,"walnut off-cuts, danish oil, sandpaper, beeswax","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",392,182,YES,2-4 hours,0
+Bunk Bed,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",10487,4622,YES,3-5 days,0
+Wall-Mounted Shelves,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",624,217,YES,2-4 hours,1
+Folding Chair,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",1623,1056,YES,1-2 days,0
+Picture Frame,decorative,Intermediate,"pine boards, router bits, sandpaper, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",341,163,YES,1-3 hours,3
+Desk,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","miter saw, drill, orbital sander, clamps, router, level",4008,1755,NO,1-2 days,3
+Kitchen Island,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",10404,4281,NO,3-5 days,3
+Chaise Lounge,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4616,1637,YES,3-5 days,0
+Keepsake Box,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",280,171,NO,2-4 hours,1
+Secretary Desk,tables,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",8957,2892,YES,3-5 days,0
+Kitchen Island,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","hand saw, hammer, tape measure, sandpaper, clamps",8617,4348,YES,3-5 days,0
+Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",732,393,YES,3-5 hours,0
+Computer Desk,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","miter saw, drill, orbital sander, clamps, router, level",2879,1359,YES,1-2 days,0
+Memory Box / Hope Chest,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",3020,1350,YES,1-2 days,2
+Computer Desk,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",3381,1084,YES,1-2 days,1
+Chest of Drawers,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",8619,2857,YES,3-4 days,0
+Sawhorse,workshop,Intermediate,"pine boards, wood screws, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",813,270,YES,3-5 hours,0
+Wall Art / Wood Carving,decorative,Advanced,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",1325,460,YES,1-3 days,0
+Wooden Sign,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",229,122,NO,2-4 hours,3
+Rocking Chair,seating,Advanced,"meranti boards, dowels, sandpaper, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5719,1379,YES,3-5 days,0
+Dog House,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","hand saw, chisel, mallet, sandpaper, tape measure",1853,705,YES,1-2 days,1
+Writing Desk,tables,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1322,658,YES,1-2 days,0
+Coffee Table,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","circular saw, hammer, tape measure, clamps, level",2106,890,YES,1-2 days,0
+High Chair,seating,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",8072,2901,YES,2-3 days,1
+Folding Table,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",2087,840,YES,1-2 days,3
+Folding Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",2193,887,YES,1-2 days,1
+Dresser,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6637,2736,YES,3-5 days,2
+Loft Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",10248,3268,YES,3-5 days,0
+Folding Step Ladder,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","miter saw, drill, orbital sander, clamps, router, level",1326,421,NO,4-8 hours,1
+Step Stool,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",1096,313,NO,4-8 hours,3
+Raised Garden Bed,outdoor,Advanced,"treated pine, galvanised screws, outdoor paint, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",1732,921,YES,1-2 days,0
+Ottoman,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, chisel, mallet, sandpaper, tape measure",1308,860,YES,1-2 days,0
+Canopy Bed,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",9486,3112,YES,4-6 days,0
+Stool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",1201,499,YES,3-5 hours,0
+Picture Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",241,131,YES,1-3 hours,2
+Footstool,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","circular saw, hammer, tape measure, clamps, level",1090,373,YES,3-5 hours,2
+Canopy Bed,bedroom,Advanced,"pine boards, wood screws, sandpaper, wood stain","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9985,3929,YES,4-6 days,0
+Utensil Holder,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",133,65,YES,1-2 hours,0
+Bench with Backrest,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2430,911,YES,1-2 days,2
+Gazebo,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","circular saw, hammer, tape measure, clamps, level",13673,4985,YES,5-7 days,0
+Bench with Backrest,seating,Advanced,"meranti boards, dowels, sandpaper, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1747,737,YES,1-2 days,0
+Coat Rack,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",625,297,YES,2-4 hours,0
+Floating Shelves,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",617,225,NO,2-4 hours,3
+Spice Rack,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",238,111,YES,2-4 hours,1
+Chest of Drawers,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",5156,1843,YES,3-4 days,3
+Garden Bench,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","jigsaw, drill, tape measure, sandpaper, square",1640,625,YES,1-2 days,0
+Coffee Table,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",2721,1202,YES,1-2 days,1
+Dining Table,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",5661,2616,NO,2-4 days,3
+Chicken Coop,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","table saw, jointer, planer, router, drill press, orbital sander, clamps",5684,2195,NO,2-3 days,3
+Floating Shelves,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","miter saw, drill, orbital sander, clamps, router, level",955,299,YES,2-4 hours,2
+Dog House,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, hammer, tape measure, clamps, level",2557,963,NO,1-2 days,1
+Wine Rack,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",2164,755,YES,4-8 hours,0
+Pallet Furniture,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, chisel, mallet, sandpaper, tape measure",1231,515,YES,1-2 days,0
+Hall Tree,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2110,801,YES,1-2 days,0
+Nightstand,bedroom,Beginner,"meranti boards, pocket screws, sandpaper, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",765,338,YES,4-8 hours,0
+Canopy Bed,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",13416,4279,NO,4-6 days,3
+Cat Tree / Cat Condo,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","table saw, drill, orbital sander, clamps, router, square",721,444,YES,1-2 days,0
+Wall Art / Wood Carving,decorative,Advanced,"hardwood scraps, epoxy resin, sandpaper, oil finish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1861,783,YES,1-3 days,3
+Credenza,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",9959,3629,YES,3-5 days,2
+High Chair,seating,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6641,1941,YES,2-3 days,2
+Dining Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",4773,1687,NO,2-4 days,3
+Wall-Mounted Shelves,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","jigsaw, drill, tape measure, sandpaper, square",598,271,YES,2-4 hours,0
+End Table,tables,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1112,308,YES,4-8 hours,0
+Wardrobe,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",9143,4653,YES,4-6 days,2
+Nightstand,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",672,359,YES,4-8 hours,0
+Ottoman,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",1861,768,YES,1-2 days,1
+Chicken Coop,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7630,2440,YES,2-3 days,1
+Sawhorse,workshop,Beginner,"hardwood lumber, bolts, washers, metal brackets","hand saw, hammer, tape measure, sandpaper, clamps",580,372,NO,3-5 hours,3
+High Chair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",6064,2454,YES,2-3 days,0
+Chest of Drawers,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7156,2088,YES,3-4 days,0
+Dog House,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",2175,1284,YES,1-2 days,0
+Bar Stool,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",1902,691,YES,1-2 days,0
+Crib,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",7277,2929,YES,3-5 days,0
+Bookshelf,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",992,393,YES,1-2 days,0
+Computer Desk,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","miter saw, drill, orbital sander, clamps, router, level",3476,1212,YES,1-2 days,3
+Jewelry Box,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",1059,392,YES,4-8 hours,0
+Spice Rack,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",282,133,YES,2-4 hours,1
+Wooden Sign,decorative,Advanced,"walnut off-cuts, danish oil, sandpaper, beeswax","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",551,183,YES,2-4 hours,1
+Display Cabinet,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",4409,1703,YES,3-5 days,0
+Headboard,bedroom,Beginner,"plywood sheets, pine trim, wood screws, paint","circular saw, hammer, tape measure, clamps, level",1922,743,YES,4-8 hours,0
+Cat Tree / Cat Condo,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",940,399,YES,1-2 days,2
+Toolbox,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","circular saw, hammer, tape measure, clamps, level",912,375,YES,1-2 days,2
+Step Stool,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",849,379,YES,4-8 hours,3
+Platform Bed,bedroom,Intermediate,"meranti boards, pocket screws, sandpaper, lacquer","miter saw, drill, orbital sander, clamps, router, level",6593,1941,YES,2-3 days,0
+Desk,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",2531,887,YES,1-2 days,0
+Outdoor Lounge Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",3957,1508,YES,1-2 days,0
+Garden Bench,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","band saw, drill press, orbital sander, clamps, chisel, mallet",2237,856,YES,1-2 days,0
+Ladder Shelf,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",874,371,YES,4-8 hours,0
+Desk,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",3117,1150,YES,1-2 days,3
+Spice Rack,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",335,132,YES,2-4 hours,0
+Armchair,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",6527,3726,YES,3-4 days,2
+Headboard,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",1200,448,YES,4-8 hours,0
+Corner Shelves,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",565,261,YES,3-5 hours,0
+Planter Box,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",1201,632,YES,4-8 hours,0
+Dollhouse,kids,Advanced,"hardwood scraps, child-safe varnish, sandpaper, dowels","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3038,1208,YES,3-5 days,2
+Bookshelf,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1150,453,YES,1-2 days,2
+Computer Desk,tables,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","jigsaw, drill, tape measure, sandpaper, square",4133,1234,YES,1-2 days,0
+Rabbit Hutch,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",1343,549,NO,1-2 days,2
+Kitchen Island,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",7455,3613,YES,3-5 days,0
+Patio Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",2818,879,YES,1-2 days,0
+Cat Tree / Cat Condo,outdoor,Intermediate,"treated pine, galvanised screws, outdoor paint, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",2900,871,YES,1-2 days,0
+Display Cabinet,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9248,3156,YES,3-5 days,3
+Bookshelf,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",2499,980,NO,1-2 days,1
+Dining Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",3373,1670,NO,2-4 days,1
+Sawhorse,workshop,Beginner,"pine boards, wood screws, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",825,439,YES,3-5 hours,0
+Bread Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",418,199,YES,2-4 hours,0
+Pet Ramp,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","circular saw, hammer, tape measure, clamps, level",867,392,YES,3-6 hours,1
+Hall Tree,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","miter saw, drill, orbital sander, clamps, router, level",1423,772,YES,1-2 days,0
+High Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",5777,2079,YES,2-3 days,0
+Patio Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",3589,1764,YES,1-2 days,3
+Ladder Shelf,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",789,299,YES,4-8 hours,0
+Arbor,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","band saw, drill press, orbital sander, clamps, chisel, mallet",2797,1044,NO,1-2 days,2
+Kitchen Island,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","table saw, drill, orbital sander, clamps, router, square",11435,4489,YES,3-5 days,0
+Bread Box,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, chisel, mallet, sandpaper, tape measure",587,258,NO,2-4 hours,3
+Bookcase,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",2781,1310,YES,1-2 days,2
+Chaise Lounge,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5816,1709,YES,3-5 days,0
+Puzzle,kids,Intermediate,"birch plywood, non-toxic finish, sandpaper, wood screws","band saw, drill press, orbital sander, clamps, chisel, mallet",1148,463,YES,4-8 hours,1
+Picnic Table,tables,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",2209,1402,YES,1-2 days,0
+Bench,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",1040,486,YES,1-2 days,0
+Ladder Shelf,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",744,279,YES,4-8 hours,0
+Credenza,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",7028,2846,YES,3-5 days,3
+Ottoman,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",1374,724,YES,1-2 days,3
+Bed Frame,bedroom,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7644,2341,YES,2-3 days,1
+Porch Swing,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",4378,1824,YES,1-2 days,2
+Arbor,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","table saw, jointer, planer, router, drill press, orbital sander, clamps",3246,1310,YES,1-2 days,1
+Clock,decorative,Advanced,"pine off-cuts, nails, sandpaper, paint","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1540,546,NO,4-8 hours,1
+Rabbit Hutch,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",2262,975,YES,1-2 days,3
+Linen Press,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9923,3776,NO,4-6 days,2
+Corner Shelves,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",863,410,YES,3-5 hours,0
+Adirondack Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",1737,703,YES,1-2 days,3
+Sideboard / Buffet,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5103,2016,YES,3-5 days,2
+Toy Box,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, chisel, mallet, sandpaper, tape measure",726,414,YES,1-2 days,0
+Sideboard / Buffet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",8417,3254,YES,3-5 days,1
+Wardrobe,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9188,2690,YES,4-6 days,0
+Folding Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",2422,953,YES,1-2 days,0
+Armoire,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6670,2089,YES,5-7 days,0
+Shoe Rack,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","jigsaw, drill, tape measure, sandpaper, square",842,441,YES,3-5 hours,2
+Bread Box,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",406,188,YES,2-4 hours,0
+Folding Chair,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","jigsaw, drill, tape measure, sandpaper, square",1365,528,YES,1-2 days,3
+Floating Shelves,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","circular saw, hammer, tape measure, clamps, level",1306,471,YES,2-4 hours,0
+Footboard,bedroom,Beginner,"meranti boards, pocket screws, sandpaper, lacquer","circular saw, hammer, tape measure, clamps, level",1487,874,YES,4-8 hours,0
+Workbench Vise Mounting,workshop,Intermediate,"meranti boards, lag screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",2133,994,YES,4-8 hours,0
+Cat Tree / Cat Condo,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","miter saw, drill, orbital sander, clamps, router, level",2618,1142,YES,1-2 days,3
+Secretary Desk,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",3523,1301,YES,3-5 days,0
+Puzzle,kids,Intermediate,"hardwood scraps, child-safe varnish, sandpaper, dowels","table saw, drill, orbital sander, clamps, router, square",338,172,NO,4-8 hours,2
+Workbench,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3588,1550,YES,2-3 days,0
+Outdoor Lounge Chair,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",1990,975,NO,1-2 days,1
+Corner Shelves,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","circular saw, hammer, tape measure, clamps, level",911,286,YES,3-5 hours,2
+Garden Bench,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",1537,715,YES,1-2 days,2
+Writing Desk,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",3304,1201,YES,1-2 days,0
+Spice Rack,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",700,317,YES,2-4 hours,0
+Jewelry Box,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, chisel, mallet, sandpaper, tape measure",1252,525,YES,4-8 hours,0
+Raised Garden Bed,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",1926,546,YES,1-2 days,0
+Curio Cabinet,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",8798,3141,NO,3-5 days,1
+Chest of Drawers,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","miter saw, drill, orbital sander, clamps, router, level",5581,1817,NO,3-4 days,2
+Wooden Toys,kids,Intermediate,"pine boards, non-toxic paint, sandpaper, wood glue","circular saw, router, orbital sander, drill, clamps, tape measure",300,108,YES,2-4 hours,0
+Platform Bed,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",5397,3126,YES,2-3 days,2
+Patio Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",4672,1909,YES,1-2 days,0
+Gazebo,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","table saw, drill, orbital sander, clamps, router, square",8136,3653,YES,5-7 days,0
+Picnic Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",2851,1325,YES,1-2 days,0
+Wardrobe,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",12474,3813,NO,4-6 days,1
+Serving Tray,decorative,Beginner,"hardwood scraps, epoxy resin, sandpaper, oil finish","hand saw, chisel, mallet, sandpaper, tape measure",678,313,YES,2-4 hours,1
+Bed Frame,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",7201,2729,NO,2-3 days,2
+Utensil Holder,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",530,200,NO,1-2 hours,1
+Storage Bench,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",2311,932,YES,1-2 days,0
+Armchair,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",5891,2457,YES,3-4 days,0
+Credenza,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","jigsaw, drill, tape measure, sandpaper, square",8860,3265,NO,3-5 days,3
+End Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",1257,615,YES,4-8 hours,1
+Birdhouse,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","hand saw, chisel, mallet, sandpaper, tape measure",503,246,YES,2-4 hours,2
+Gazebo,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",16613,5860,YES,5-7 days,0
+Clock,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",919,291,YES,4-8 hours,1
+Window Seat,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","circular saw, router, orbital sander, drill, clamps, tape measure",2960,1363,YES,2-3 days,0
+Folding Chair,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",1228,549,YES,1-2 days,0
+Folding Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",2343,876,NO,1-2 days,2
+Canopy Bed,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",9579,3250,YES,4-6 days,0
+Wall-Mounted Shelves,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","jigsaw, drill, tape measure, sandpaper, square",688,275,YES,2-4 hours,3
+Wooden Toys,kids,Intermediate,"pine boards, non-toxic paint, sandpaper, wood glue","circular saw, router, orbital sander, drill, clamps, tape measure",715,246,YES,2-4 hours,0
+Trellis,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",850,402,YES,3-6 hours,0
+Raised Garden Bed,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",1734,780,YES,1-2 days,1
+Clock,decorative,Intermediate,"hardwood scraps, epoxy resin, sandpaper, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",1057,299,NO,4-8 hours,2
+Platform Bed,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",4325,2382,YES,2-3 days,0
+Display Cabinet,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",6921,3955,YES,3-5 days,0
+Step Stool,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",904,559,NO,4-8 hours,1
+Coffee Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",1571,738,YES,1-2 days,2
+Patio Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",2990,1526,YES,1-2 days,0
+Credenza,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5559,1658,YES,3-5 days,0
+Floating Shelves,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",1227,474,YES,2-4 hours,1
+Footstool,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",821,479,YES,3-5 hours,0
+Wooden Toys,kids,Beginner,"pine boards, non-toxic paint, sandpaper, wood glue","hand saw, chisel, mallet, sandpaper, tape measure",788,401,YES,2-4 hours,0
+Headboard,bedroom,Advanced,"meranti boards, pocket screws, sandpaper, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",1383,716,NO,4-8 hours,2
+Kitchen Island,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",8478,3604,NO,3-5 days,1
+Dining Chair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",5553,1512,NO,1-2 days,2
+Canopy Bed,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",4662,2439,YES,4-6 days,0
+Curio Cabinet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",10300,3004,YES,3-5 days,3
+Trellis,outdoor,Advanced,"reclaimed timber, galvanised brackets, outdoor stain, nails","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",930,476,YES,3-6 hours,1
+Porch Swing,seating,Advanced,"meranti boards, dowels, sandpaper, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",3446,1303,YES,1-2 days,3
+Pallet Furniture,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",773,363,YES,1-2 days,2
+Chaise Lounge,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",7261,1952,YES,3-5 days,0
+Footstool,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","jigsaw, drill, tape measure, sandpaper, square",934,423,YES,3-5 hours,0
+Bench,seating,Beginner,"meranti boards, dowels, sandpaper, paint","jigsaw, drill, tape measure, sandpaper, square",2119,801,YES,1-2 days,1
+Sawhorse,workshop,Beginner,"hardwood lumber, bolts, washers, metal brackets","hand saw, chisel, mallet, sandpaper, tape measure",1244,486,YES,3-5 hours,0
+Folding Table,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3415,1512,YES,1-2 days,0
+Clock,decorative,Intermediate,"pine boards, router bits, sandpaper, lacquer","miter saw, drill, orbital sander, clamps, router, level",830,331,YES,4-8 hours,3
+Bunk Bed,bedroom,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",4963,1653,YES,3-5 days,0
+Bird Feeder,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, hammer, tape measure, clamps, level",192,89,YES,1-3 hours,0
+Loft Bed,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",6368,3086,YES,3-5 days,0
+Coffee Table,tables,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, hammer, tape measure, sandpaper, clamps",747,350,YES,1-2 days,0
+Memory Box / Hope Chest,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",2993,1454,YES,1-2 days,1
+Picnic Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",1640,628,YES,1-2 days,0
+Wooden Toys,kids,Intermediate,"hardwood scraps, child-safe varnish, sandpaper, dowels","band saw, drill press, orbital sander, clamps, chisel, mallet",327,153,NO,2-4 hours,2
+Cat Tree / Cat Condo,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","jigsaw, drill, tape measure, sandpaper, square",888,354,YES,1-2 days,2
+Bench,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",1194,523,YES,1-2 days,0
+Chaise Lounge,seating,Advanced,"meranti boards, dowels, sandpaper, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",6583,2629,YES,3-5 days,0
+Wine Rack,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",1053,378,YES,4-8 hours,0
+Display Cabinet,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5847,2552,YES,3-5 days,2
+Footstool,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",730,324,YES,3-5 hours,3
+Nightstand,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",1380,491,YES,4-8 hours,2
+End Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",1211,786,YES,4-8 hours,2
+Pergola,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",9968,4694,YES,3-5 days,3
+Tool Chest,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","miter saw, drill, orbital sander, clamps, router, level",2002,614,YES,2-3 days,0
+Serving Tray,decorative,Intermediate,"walnut off-cuts, danish oil, sandpaper, beeswax","band saw, drill press, orbital sander, clamps, chisel, mallet",584,251,YES,2-4 hours,3
+Linen Press,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, drill, orbital sander, clamps, router, square",6183,2520,YES,4-6 days,0
+Bookcase,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","table saw, drill, orbital sander, clamps, router, square",2480,1220,YES,1-2 days,2
+Console Table,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",2107,810,YES,1-2 days,0
+Wooden Toys,kids,Beginner,"birch plywood, non-toxic finish, sandpaper, wood screws","jigsaw, drill, tape measure, sandpaper, square",578,243,YES,2-4 hours,1
+Shoe Rack,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",1409,537,YES,3-5 hours,1
+Utensil Holder,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",510,149,YES,1-2 hours,0
+Wooden Toys,kids,Beginner,"birch plywood, non-toxic finish, sandpaper, wood screws","jigsaw, drill, tape measure, sandpaper, square",221,129,YES,2-4 hours,0
+Rabbit Hutch,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","jigsaw, drill, tape measure, sandpaper, square",1917,1091,YES,1-2 days,0
+Outdoor Lounge Chair,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",2674,1565,YES,1-2 days,0
+Footboard,bedroom,Beginner,"meranti boards, pocket screws, sandpaper, lacquer","jigsaw, drill, tape measure, sandpaper, square",2055,822,YES,4-8 hours,1
+Rabbit Hutch,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",1580,688,YES,1-2 days,2
+Wooden Sign,decorative,Beginner,"hardwood scraps, epoxy resin, sandpaper, oil finish","hand saw, chisel, mallet, sandpaper, tape measure",580,273,YES,2-4 hours,0
+Keepsake Box,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",865,330,NO,2-4 hours,3
+Sawhorse,workshop,Advanced,"meranti boards, lag screws, sandpaper, wood stain","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",1069,518,YES,3-5 hours,3
+Picture Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",371,146,YES,1-3 hours,0
+Folding Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",771,450,YES,1-2 days,0
+Wooden Toys,kids,Beginner,"birch plywood, non-toxic finish, sandpaper, wood screws","hand saw, hammer, tape measure, sandpaper, clamps",713,197,YES,2-4 hours,0
+Bunk Bed,bedroom,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",10193,3132,YES,3-5 days,2
+Adirondack Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","circular saw, router, orbital sander, drill, clamps, tape measure",1871,765,NO,1-2 days,3
+Platform Bed,bedroom,Advanced,"meranti boards, pocket screws, sandpaper, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7466,2533,NO,2-3 days,3
+Bench with Backrest,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",2022,646,YES,1-2 days,0
+Adirondack Chair,seating,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3365,1660,YES,1-2 days,2
+Garden Bench,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",745,336,YES,1-2 days,1
+Secretary Desk,tables,Advanced,"oak lumber, dowels, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",10909,3794,YES,3-5 days,0
+Nightstand,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",1272,675,YES,4-8 hours,0
+Pergola,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","table saw, jointer, planer, router, drill press, orbital sander, clamps",9432,5241,YES,3-5 days,0
+Secretary Desk,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",8522,2020,YES,3-5 days,2
+Toy Box,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",1150,529,YES,1-2 days,0
+Toy Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",1425,636,YES,1-2 days,3
+Stool,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",810,518,YES,3-5 hours,2
+Kitchen Island,tables,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",12036,2844,YES,3-5 days,0
+Picnic Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",4895,1366,YES,1-2 days,2
+Platform Bed,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",6326,1996,YES,2-3 days,0
+Storage Bench,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, drill, orbital sander, clamps, router, level",3516,1370,NO,1-2 days,1
+Serving Tray,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","circular saw, hammer, tape measure, clamps, level",523,236,YES,2-4 hours,0
+Crib,bedroom,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",6920,3571,YES,3-5 days,0
+Cat Tree / Cat Condo,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","jigsaw, drill, tape measure, sandpaper, square",945,334,YES,1-2 days,0
+Trellis,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","miter saw, drill, orbital sander, clamps, router, level",968,401,YES,3-6 hours,2
+Dining Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",4813,2173,YES,2-4 days,0
+Birdhouse,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",284,116,YES,2-4 hours,1
+Console Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","miter saw, drill, orbital sander, clamps, router, level",3056,964,YES,1-2 days,0
+Knife Block,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","miter saw, drill, orbital sander, clamps, router, level",616,173,YES,2-3 hours,0
+Wall-Mounted Shelves,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",742,409,YES,2-4 hours,0
+Curio Cabinet,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",8611,3096,YES,3-5 days,0
+Planter Box,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",910,452,YES,4-8 hours,0
+Armchair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5241,1330,YES,3-4 days,0
+Chaise Lounge,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",3738,1212,YES,3-5 days,1
+Cat Tree / Cat Condo,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",1445,411,NO,1-2 days,2
+Pallet Furniture,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",765,412,YES,1-2 days,0
+Floating Shelves,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",623,306,YES,2-4 hours,0
+Ottoman,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",3061,1295,YES,1-2 days,2
+China Cabinet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",10954,2946,YES,4-6 days,0
+Window Seat,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",7062,2235,YES,2-3 days,0
+Platform Bed,bedroom,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",6221,2566,YES,2-3 days,3
+Gazebo,outdoor,Advanced,"meranti boards, exterior glue, galvanised nails, wood preservative","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",9416,2869,YES,5-7 days,0
+Picture Frame,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","table saw, drill, orbital sander, clamps, router, square",204,91,YES,1-3 hours,0
+Rocking Chair,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",6383,2831,YES,3-5 days,1
+Jewelry Box,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",915,438,YES,4-8 hours,3
+Platform Bed,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",2993,1520,YES,2-3 days,2
+Platform Bed,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",3948,1380,YES,2-3 days,0
+Pallet Furniture,seating,Beginner,"hardwood lumber, mortise joints, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",498,235,YES,1-2 days,3
+Wooden Sign,decorative,Beginner,"pine boards, router bits, sandpaper, lacquer","jigsaw, drill, tape measure, sandpaper, square",323,152,NO,2-4 hours,1
+Planter Box,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",562,262,YES,4-8 hours,1
+Armoire,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",15164,4244,YES,5-7 days,1
+Utensil Holder,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",211,104,YES,1-2 hours,0
+Dresser,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",6408,2527,NO,3-5 days,1
+Headboard,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1910,840,YES,4-8 hours,0
+Patio Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","band saw, drill press, orbital sander, clamps, chisel, mallet",4426,1411,YES,1-2 days,2
+Rabbit Hutch,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","miter saw, drill, orbital sander, clamps, router, level",1607,631,YES,1-2 days,1
+Ottoman,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",2243,1184,YES,1-2 days,3
+Bed Frame,bedroom,Intermediate,"meranti boards, pocket screws, sandpaper, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",3545,1042,YES,2-3 days,2
+Workbench Vise Mounting,workshop,Advanced,"hardwood lumber, bolts, washers, metal brackets","table saw, jointer, planer, router, drill press, orbital sander, clamps",1530,436,YES,4-8 hours,3
+Footboard,bedroom,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",1576,715,YES,4-8 hours,3
+Ottoman,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",2245,1003,YES,1-2 days,0
+Ladder Shelf,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",620,289,YES,4-8 hours,2
+China Cabinet,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7567,3514,YES,4-6 days,2
+Storage Bench,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",2722,764,YES,1-2 days,1
+Patio Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","miter saw, drill, orbital sander, clamps, router, level",2034,772,YES,1-2 days,3
+Headboard,bedroom,Beginner,"plywood sheets, pine trim, wood screws, paint","circular saw, hammer, tape measure, clamps, level",1710,757,YES,4-8 hours,0
+Crib,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5294,2005,NO,3-5 days,3
+Tool Chest,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",4371,1445,YES,2-3 days,0
+Wall-Mounted Shelves,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, drill, orbital sander, clamps, router, level",544,257,YES,2-4 hours,0
+Window Seat,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2562,1160,NO,2-3 days,3
+Picture Frame,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",394,140,YES,1-3 hours,2
+Butcher Block Countertop,tables,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",4109,1221,NO,2-4 days,3
+Adirondack Chair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, jointer, planer, router, drill press, orbital sander, clamps",3775,1281,YES,1-2 days,0
+Storage Bench,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",2052,806,YES,1-2 days,1
+Pergola,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7707,2589,NO,3-5 days,1
+Arbor,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",3550,1645,YES,1-2 days,3
+Serving Tray,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",376,150,YES,2-4 hours,3
+Nightstand,bedroom,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, chisel, mallet, sandpaper, tape measure",1851,720,NO,4-8 hours,1
+Porch Swing,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",3410,1176,YES,1-2 days,2
+Wall Art / Wood Carving,decorative,Advanced,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1415,661,NO,1-3 days,1
+Raised Garden Bed,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","band saw, drill press, orbital sander, clamps, chisel, mallet",864,342,YES,1-2 days,0
+Wall Art / Wood Carving,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",1735,923,YES,1-3 days,1
+Chaise Lounge,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6891,3147,NO,3-5 days,2
+Cat Tree / Cat Condo,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","miter saw, drill, orbital sander, clamps, router, level",716,366,YES,1-2 days,0
+Dollhouse,kids,Intermediate,"pine boards, non-toxic paint, sandpaper, wood glue","table saw, drill, orbital sander, clamps, router, square",2795,1196,YES,3-5 days,0
+Coat Rack,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",810,373,YES,2-4 hours,0
+Wooden Toys,kids,Beginner,"hardwood scraps, child-safe varnish, sandpaper, dowels","circular saw, hammer, tape measure, clamps, level",841,343,YES,2-4 hours,0
+Memory Box / Hope Chest,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, drill, orbital sander, clamps, router, level",1599,770,NO,1-2 days,1
+Corner Shelves,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","jigsaw, drill, tape measure, sandpaper, square",1083,353,YES,3-5 hours,0
+Bird Feeder,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, hammer, tape measure, clamps, level",384,219,YES,1-3 hours,0
+Tool Chest,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",2400,1050,YES,2-3 days,0
+Keepsake Box,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","jigsaw, drill, tape measure, sandpaper, square",779,393,YES,2-4 hours,0
+Kitchen Island,tables,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",8325,2562,YES,3-5 days,0
+Bookcase,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",4213,1315,YES,1-2 days,0
+Pet Ramp,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",797,284,YES,3-6 hours,0
+Ottoman,seating,Advanced,"meranti boards, dowels, sandpaper, paint","table saw, jointer, planer, router, drill press, orbital sander, clamps",1842,733,YES,1-2 days,2
+Planter Box,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","table saw, drill, orbital sander, clamps, router, square",839,260,YES,4-8 hours,3
+Shoe Rack,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",1026,337,YES,3-5 hours,0
+Puzzle,kids,Beginner,"birch plywood, non-toxic finish, sandpaper, wood screws","jigsaw, drill, tape measure, sandpaper, square",911,399,YES,4-8 hours,1
+Cat Tree / Cat Condo,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","table saw, drill, orbital sander, clamps, router, square",1691,615,YES,1-2 days,3
+Bookcase,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",3207,1076,YES,1-2 days,3
+Gazebo,outdoor,Advanced,"treated pine, galvanised screws, outdoor paint, sandpaper","table saw, jointer, planer, router, drill press, orbital sander, clamps",10063,5183,NO,5-7 days,1
+Raised Garden Bed,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",1501,772,YES,1-2 days,0
+Credenza,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","table saw, drill, orbital sander, clamps, router, square",5807,2843,YES,3-5 days,0
+Pallet Furniture,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, hammer, tape measure, clamps, level",607,304,YES,1-2 days,2
+Window Seat,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","circular saw, hammer, tape measure, clamps, level",7501,2348,YES,2-3 days,3
+Mirror Frame,decorative,Beginner,"walnut off-cuts, danish oil, sandpaper, beeswax","hand saw, chisel, mallet, sandpaper, tape measure",755,225,YES,2-4 hours,3
+Wardrobe,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",5346,1858,YES,4-6 days,3
+Floating Shelves,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",1181,389,YES,2-4 hours,3
+Chaise Lounge,seating,Advanced,"reclaimed wood, steel brackets, sandpaper, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9569,4024,YES,3-5 days,1
+Adirondack Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","table saw, drill, orbital sander, clamps, router, square",4482,1269,YES,1-2 days,0
+Display Cabinet,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",6196,2468,YES,3-5 days,1
+Shoe Rack,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",1619,708,YES,3-5 hours,3
+Coat Rack,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, hammer, tape measure, clamps, level",651,280,YES,2-4 hours,0
+Nightstand,bedroom,Beginner,"plywood sheets, pine trim, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",750,444,YES,4-8 hours,3
+Dollhouse,kids,Intermediate,"pine boards, non-toxic paint, sandpaper, wood glue","table saw, drill, orbital sander, clamps, router, square",3058,1244,YES,3-5 days,0
+Birdhouse,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",159,68,YES,2-4 hours,1
+Bread Box,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","band saw, drill press, orbital sander, clamps, chisel, mallet",797,340,YES,2-4 hours,0
+Armoire,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, jointer, planer, router, drill press, orbital sander, clamps",9011,2980,YES,5-7 days,0
+Memory Box / Hope Chest,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",2586,1007,NO,1-2 days,2
+Porch Swing,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","circular saw, router, orbital sander, drill, clamps, tape measure",1574,885,YES,1-2 days,3
+Sawhorse,workshop,Beginner,"pine boards, wood screws, sandpaper, linseed oil","circular saw, hammer, tape measure, clamps, level",1022,355,YES,3-5 hours,2
+Wooden Sign,decorative,Intermediate,"walnut off-cuts, danish oil, sandpaper, beeswax","table saw, drill, orbital sander, clamps, router, square",429,160,YES,2-4 hours,2
+Clock,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",1592,487,YES,4-8 hours,1
+Bench with Backrest,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, chisel, mallet, sandpaper, tape measure",2295,1043,YES,1-2 days,0
+Chicken Coop,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4428,1273,YES,2-3 days,2
+Porch Swing,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",1702,822,YES,1-2 days,0
+Rabbit Hutch,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","miter saw, drill, orbital sander, clamps, router, level",3577,1415,YES,1-2 days,1
+Rocking Chair,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","circular saw, router, orbital sander, drill, clamps, tape measure",4692,2240,NO,3-5 days,2
+Dollhouse,kids,Advanced,"hardwood scraps, child-safe varnish, sandpaper, dowels","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3945,1452,YES,3-5 days,0
+Folding Chair,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",2631,722,YES,1-2 days,2
+Computer Desk,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","miter saw, drill, orbital sander, clamps, router, level",3902,1606,YES,1-2 days,0
+Bookshelf,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",1587,584,YES,1-2 days,0
+Arbor,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","band saw, drill press, orbital sander, clamps, chisel, mallet",3274,1871,NO,1-2 days,3
+Bunk Bed,bedroom,Advanced,"meranti boards, pocket screws, sandpaper, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",6246,2267,NO,3-5 days,3
+Bar Stool,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",2539,986,YES,1-2 days,1
+Console Table,tables,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2907,1214,NO,1-2 days,3
+Step Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, hammer, tape measure, clamps, level",318,194,YES,4-8 hours,3
+Loft Bed,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",5928,3296,YES,3-5 days,0
+Pallet Furniture,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","jigsaw, drill, tape measure, sandpaper, square",1293,464,YES,1-2 days,0
+Chicken Coop,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5150,2066,NO,2-3 days,3
+Rabbit Hutch,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",2638,1490,YES,1-2 days,0
+Serving Tray,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",347,152,NO,2-4 hours,2
+Birdhouse,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","hand saw, chisel, mallet, sandpaper, tape measure",420,192,YES,2-4 hours,3
+Writing Desk,tables,Beginner,"pine boards, metal legs, wood glue, wood oil","hand saw, hammer, tape measure, sandpaper, clamps",1675,723,NO,1-2 days,2
+Dining Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",2142,1222,YES,1-2 days,1
+Bookshelf,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","jigsaw, drill, tape measure, sandpaper, square",1335,511,YES,1-2 days,0
+Armchair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",6966,2488,NO,3-4 days,1
+Trellis,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","jigsaw, drill, tape measure, sandpaper, square",793,240,YES,3-6 hours,0
+Knife Block,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","circular saw, hammer, tape measure, clamps, level",484,165,YES,2-3 hours,0
+Rocking Chair,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9910,2694,YES,3-5 days,1
+Folding Step Ladder,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","band saw, drill press, orbital sander, clamps, chisel, mallet",1403,569,YES,4-8 hours,1
+Crib,bedroom,Intermediate,"meranti boards, pocket screws, sandpaper, lacquer","miter saw, drill, orbital sander, clamps, router, level",4219,2351,YES,3-5 days,1
+Hall Tree,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","circular saw, router, orbital sander, drill, clamps, tape measure",2205,952,NO,1-2 days,2
+Hall Tree,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","circular saw, hammer, tape measure, clamps, level",2533,1202,YES,1-2 days,0
+Picture Frame,decorative,Intermediate,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",523,206,YES,1-3 hours,0
+Changing Table,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",2772,933,YES,2-3 days,0
+Dining Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","miter saw, drill, orbital sander, clamps, router, level",5424,1969,YES,2-4 days,0
+Porch Swing,seating,Advanced,"hardwood lumber, mortise joints, wood glue, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3747,1899,YES,1-2 days,0
+Puzzle,kids,Intermediate,"birch plywood, non-toxic finish, sandpaper, wood screws","table saw, drill, orbital sander, clamps, router, square",645,295,NO,4-8 hours,2
+Bench with Backrest,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","circular saw, hammer, tape measure, clamps, level",3350,1099,YES,1-2 days,3
+Bird Feeder,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","jigsaw, drill, tape measure, sandpaper, square",102,52,NO,1-3 hours,3
+Step Stool,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, chisel, mallet, sandpaper, tape measure",1049,504,YES,4-8 hours,1
+Garden Bench,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","table saw, drill, orbital sander, clamps, router, square",1703,598,YES,1-2 days,0
+Raised Garden Bed,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","jigsaw, drill, tape measure, sandpaper, square",1440,783,YES,1-2 days,0
+Writing Desk,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",1501,938,YES,1-2 days,2
+Birdhouse,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","jigsaw, drill, tape measure, sandpaper, square",234,112,YES,2-4 hours,0
+Armchair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",7846,3059,NO,3-4 days,3
+Storage Bench,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",2206,671,YES,1-2 days,2
+Keepsake Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",917,426,YES,2-4 hours,0
+Folding Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",2108,1107,YES,1-2 days,1
+Console Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","miter saw, drill, orbital sander, clamps, router, level",3549,1000,YES,1-2 days,0
+Footboard,bedroom,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",623,331,YES,4-8 hours,2
+Butcher Block Countertop,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",8161,3559,YES,2-4 days,2
+End Table,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","table saw, drill, orbital sander, clamps, router, square",1479,689,YES,4-8 hours,0
+Folding Step Ladder,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","jigsaw, drill, tape measure, sandpaper, square",938,495,YES,4-8 hours,1
+Bookcase,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",1855,589,YES,1-2 days,0
+Jewelry Box,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, drill, orbital sander, clamps, router, square",849,354,YES,4-8 hours,2
+Shoe Rack,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",1661,662,YES,3-5 hours,1
+Display Cabinet,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5610,1692,YES,3-5 days,1
+Toy Box,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",1606,621,YES,1-2 days,0
+Planter Box,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",1097,366,YES,4-8 hours,1
+Hall Tree,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",2702,1309,YES,1-2 days,1
+Stool,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, chisel, mallet, sandpaper, tape measure",1398,470,YES,3-5 hours,0
+Keepsake Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","jigsaw, drill, tape measure, sandpaper, square",452,245,YES,2-4 hours,1
+Bed Frame,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","band saw, drill press, orbital sander, clamps, chisel, mallet",6130,1853,YES,2-3 days,0
+Workbench,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",4596,1579,YES,2-3 days,0
+Utensil Holder,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",239,117,NO,1-2 hours,3
+Porch Swing,seating,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",3709,1523,YES,1-2 days,0
+Patio Table,tables,Advanced,"plywood sheets, hardwood edge banding, wood screws, lacquer","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",3834,1408,YES,1-2 days,0
+Puzzle,kids,Intermediate,"pine boards, non-toxic paint, sandpaper, wood glue","miter saw, drill, orbital sander, clamps, router, level",596,250,YES,4-8 hours,2
+Bench,seating,Beginner,"meranti boards, dowels, sandpaper, paint","circular saw, hammer, tape measure, clamps, level",2175,828,YES,1-2 days,0
+Workbench,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",3876,1501,YES,2-3 days,2
+Coffee Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",2799,1311,YES,1-2 days,0
+Bunk Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",10908,3617,YES,3-5 days,0
+Folding Table,tables,Intermediate,"meranti boards, pocket screws, wood filler, polyurethane","table saw, drill, orbital sander, clamps, router, square",1772,775,YES,1-2 days,1
+Jewelry Box,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","miter saw, drill, orbital sander, clamps, router, level",1398,466,YES,4-8 hours,0
+Coat Rack,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",531,183,YES,2-4 hours,0
+Headboard,bedroom,Beginner,"oak lumber, dowels, wood glue, varnish","hand saw, chisel, mallet, sandpaper, tape measure",1819,702,NO,4-8 hours,3
+Rabbit Hutch,outdoor,Intermediate,"cedar boards, stainless screws, teak oil, sandpaper","miter saw, drill, orbital sander, clamps, router, level",2436,1209,YES,1-2 days,0
+Changing Table,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",5194,1990,YES,2-3 days,3
+Folding Step Ladder,outdoor,Intermediate,"reclaimed timber, galvanised brackets, outdoor stain, nails","band saw, drill press, orbital sander, clamps, chisel, mallet",1608,649,YES,4-8 hours,0
+Picnic Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",2733,1103,YES,1-2 days,0
+Chest of Drawers,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","circular saw, hammer, tape measure, clamps, level",2736,1409,NO,3-4 days,3
+Dog House,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","jigsaw, drill, tape measure, sandpaper, square",2480,753,YES,1-2 days,3
+Garden Bench,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",1162,658,YES,1-2 days,2
+Garden Bench,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, chisel, mallet, sandpaper, tape measure",1465,733,YES,1-2 days,0
+China Cabinet,storage,Advanced,"reclaimed wood, brackets, nails, linseed oil","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",10433,3135,YES,4-6 days,2
+Pergola,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",6787,2838,YES,3-5 days,0
+Wall-Mounted Shelves,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","circular saw, router, orbital sander, drill, clamps, tape measure",1233,474,YES,2-4 hours,1
+Birdhouse,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",616,200,YES,2-4 hours,2
+Knife Block,storage,Advanced,"oak lumber, dovetail joints, wood glue, oil finish","table saw, jointer, planer, router, drill press, orbital sander, clamps",894,333,YES,2-3 hours,0
+Knife Block,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",366,112,YES,2-3 hours,2
+Workbench Vise Mounting,workshop,Intermediate,"hardwood lumber, bolts, washers, metal brackets","circular saw, router, orbital sander, drill, clamps, tape measure",590,326,NO,4-8 hours,2
+Corner Shelves,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","circular saw, hammer, tape measure, clamps, level",483,200,YES,3-5 hours,0
+Crib,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",8113,2464,NO,3-5 days,2
+Bunk Bed,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",5916,1716,YES,3-5 days,0
+Rocking Chair,seating,Intermediate,"meranti boards, dowels, sandpaper, paint","table saw, drill, orbital sander, clamps, router, square",8179,3686,YES,3-5 days,0
+Birdhouse,outdoor,Beginner,"cedar boards, stainless screws, teak oil, sandpaper","jigsaw, drill, tape measure, sandpaper, square",497,198,YES,2-4 hours,0
+Storage Bench,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","jigsaw, drill, tape measure, sandpaper, square",1951,807,YES,1-2 days,0
+Pergola,outdoor,Advanced,"pine boards, outdoor screws, weather sealant, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",13518,4915,YES,3-5 days,0
+Bread Box,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","jigsaw, drill, tape measure, sandpaper, square",495,281,YES,2-4 hours,2
+Chicken Coop,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",5538,2148,NO,2-3 days,1
+Secretary Desk,tables,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",6300,2613,YES,3-5 days,0
+Dining Chair,seating,Advanced,"pine boards, pocket screws, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",2511,921,YES,1-2 days,0
+Hall Tree,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","circular saw, hammer, tape measure, clamps, level",1185,623,YES,1-2 days,0
+Dining Table,tables,Intermediate,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, router, orbital sander, drill, clamps, tape measure",4587,1999,YES,2-4 days,0
+Cutting Board,decorative,Beginner,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","hand saw, chisel, mallet, sandpaper, tape measure",493,201,YES,2-4 hours,0
+Dining Chair,seating,Intermediate,"hardwood lumber, mortise joints, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",3462,1309,NO,1-2 days,3
+Standing Desk,tables,Advanced,"pine boards, metal legs, wood glue, wood oil","table saw, jointer, planer, router, drill press, orbital sander, clamps",3778,1474,YES,2-3 days,0
+Crib,bedroom,Advanced,"plywood sheets, pine trim, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4779,1370,YES,3-5 days,0
+Console Table,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","band saw, drill press, orbital sander, clamps, chisel, mallet",2821,887,YES,1-2 days,0
+Chicken Coop,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","table saw, jointer, planer, router, drill press, orbital sander, clamps",4812,1770,YES,2-3 days,0
+Memory Box / Hope Chest,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",1612,602,YES,1-2 days,0
+Toolbox,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","table saw, drill, orbital sander, clamps, router, square",1627,768,YES,1-2 days,1
+Knife Block,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","miter saw, drill, orbital sander, clamps, router, level",466,219,YES,2-3 hours,0
+Linen Press,storage,Intermediate,"pine boards, dowels, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",5552,2741,YES,4-6 days,0
+Computer Desk,tables,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",2403,946,YES,1-2 days,0
+Chest of Drawers,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",5707,2126,NO,3-4 days,1
+Dining Chair,seating,Intermediate,"reclaimed wood, steel brackets, sandpaper, linseed oil","table saw, drill, orbital sander, clamps, router, square",2520,1278,YES,1-2 days,0
+Armoire,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",15185,3819,YES,5-7 days,1
+Pet Ramp,outdoor,Beginner,"treated pine, galvanised screws, outdoor paint, sandpaper","circular saw, hammer, tape measure, clamps, level",316,128,YES,3-6 hours,0
+Bookshelf,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, chisel, mallet, sandpaper, tape measure",1550,724,YES,1-2 days,0
+Coffee Table,tables,Beginner,"meranti boards, pocket screws, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",1584,764,YES,1-2 days,2
+Sideboard / Buffet,storage,Advanced,"plywood sheets, pine edging, wood screws, lacquer","table saw, jointer, planer, router, drill press, orbital sander, clamps",7596,2562,YES,3-5 days,3
+Footstool,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","jigsaw, drill, tape measure, sandpaper, square",1071,495,YES,3-5 hours,0
+Coat Rack,storage,Intermediate,"oak lumber, dovetail joints, wood glue, oil finish","miter saw, drill, orbital sander, clamps, router, level",602,235,YES,2-4 hours,0
+Ladder Shelf,storage,Beginner,"pine boards, dowels, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",1067,531,YES,4-8 hours,0
+Loft Bed,bedroom,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",10388,3242,NO,3-5 days,1
+Cutting Board,decorative,Intermediate,"walnut off-cuts, danish oil, sandpaper, beeswax","band saw, drill press, orbital sander, clamps, chisel, mallet",638,278,YES,2-4 hours,2
+Workbench Vise Mounting,workshop,Intermediate,"pine boards, wood screws, sandpaper, linseed oil","miter saw, drill, orbital sander, clamps, router, level",902,253,YES,4-8 hours,3
+Porch Swing,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","table saw, jointer, planer, router, drill press, orbital sander, clamps",2469,1101,YES,1-2 days,1
+Clock,decorative,Advanced,"hardwood scraps, epoxy resin, sandpaper, oil finish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",1256,666,NO,4-8 hours,3
+Wine Rack,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","table saw, drill, orbital sander, clamps, router, square",1124,360,YES,4-8 hours,2
+Puzzle,kids,Beginner,"hardwood scraps, child-safe varnish, sandpaper, dowels","hand saw, chisel, mallet, sandpaper, tape measure",715,341,YES,4-8 hours,0
+Memory Box / Hope Chest,storage,Advanced,"pine boards, dowels, wood filler, polyurethane","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",3049,884,YES,1-2 days,0
+Wooden Sign,decorative,Intermediate,"pine off-cuts, nails, sandpaper, paint","miter saw, drill, orbital sander, clamps, router, level",585,241,YES,2-4 hours,2
+Bookshelf,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",2335,1014,YES,1-2 days,0
+Dining Chair,seating,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","jigsaw, drill, tape measure, sandpaper, square",1940,1184,YES,1-2 days,0
+Dining Chair,seating,Advanced,"pine boards, wood screws, sandpaper, wood stain","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",4218,1674,NO,1-2 days,2
+Trellis,outdoor,Beginner,"meranti boards, exterior glue, galvanised nails, wood preservative","jigsaw, drill, tape measure, sandpaper, square",1127,472,YES,3-6 hours,0
+Headboard,bedroom,Intermediate,"plywood sheets, pine trim, wood screws, paint","band saw, drill press, orbital sander, clamps, chisel, mallet",1230,481,YES,4-8 hours,3
+Pet Ramp,outdoor,Beginner,"reclaimed timber, galvanised brackets, outdoor stain, nails","hand saw, hammer, tape measure, sandpaper, clamps",534,231,YES,3-6 hours,0
+Arbor,outdoor,Intermediate,"pine boards, outdoor screws, weather sealant, sandpaper","circular saw, router, orbital sander, drill, clamps, tape measure",3916,1155,YES,1-2 days,0
+Bread Box,storage,Beginner,"meranti boards, metal hinges, wood screws, paint","hand saw, hammer, tape measure, sandpaper, clamps",766,280,YES,2-4 hours,1
+Raised Garden Bed,outdoor,Beginner,"pine boards, outdoor screws, weather sealant, sandpaper","hand saw, hammer, tape measure, sandpaper, clamps",1039,494,YES,1-2 days,0
+Memory Box / Hope Chest,storage,Intermediate,"reclaimed wood, brackets, nails, linseed oil","band saw, drill press, orbital sander, clamps, chisel, mallet",3059,1062,YES,1-2 days,0
+Workbench,tables,Intermediate,"pine boards, metal legs, wood glue, wood oil","miter saw, drill, orbital sander, clamps, router, level",4340,1801,YES,2-3 days,1
+Bread Box,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",550,204,YES,2-4 hours,2
+Dining Chair,seating,Beginner,"pine boards, wood screws, sandpaper, wood stain","hand saw, hammer, tape measure, sandpaper, clamps",2028,813,YES,1-2 days,0
+Dollhouse,kids,Advanced,"birch plywood, non-toxic finish, sandpaper, wood screws","table saw, jointer, planer, router, drill press, orbital sander, clamps",2798,936,YES,3-5 days,0
+Dog House,outdoor,Advanced,"meranti boards, exterior glue, galvanised nails, wood preservative","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",1670,886,YES,1-2 days,0
+Wall-Mounted Shelves,storage,Intermediate,"plywood sheets, pine edging, wood screws, lacquer","band saw, drill press, orbital sander, clamps, chisel, mallet",658,297,YES,2-4 hours,0
+End Table,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","circular saw, hammer, tape measure, clamps, level",1011,406,YES,4-8 hours,0
+Sideboard / Buffet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",9382,2985,YES,3-5 days,0
+Knife Block,storage,Beginner,"pine boards, plywood, wood screws, sandpaper, varnish","hand saw, hammer, tape measure, sandpaper, clamps",694,263,YES,2-3 hours,0
+Bunk Bed,bedroom,Advanced,"oak lumber, dowels, wood glue, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",12652,4130,YES,3-5 days,0
+Ladder Shelf,storage,Beginner,"plywood sheets, pine edging, wood screws, lacquer","hand saw, hammer, tape measure, sandpaper, clamps",893,309,YES,4-8 hours,2
+Footboard,bedroom,Beginner,"meranti boards, pocket screws, sandpaper, lacquer","jigsaw, drill, tape measure, sandpaper, square",1402,555,YES,4-8 hours,0
+Coat Rack,storage,Beginner,"oak lumber, dovetail joints, wood glue, oil finish","hand saw, hammer, tape measure, sandpaper, clamps",658,291,NO,2-4 hours,3
+Mirror Frame,decorative,Advanced,"reclaimed wood off-cuts, wood glue, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",1076,411,NO,2-4 hours,1
+Window Seat,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","miter saw, table saw, router, band saw, drill press, orbital sander, clamps, chisel",7012,2308,YES,2-3 days,2
+Jewelry Box,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",846,266,YES,4-8 hours,3
+Armoire,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",10644,3170,YES,5-7 days,0
+Chicken Coop,outdoor,Intermediate,"meranti boards, exterior glue, galvanised nails, wood preservative","circular saw, router, orbital sander, drill, clamps, tape measure",7139,2665,YES,2-3 days,0
+Sideboard / Buffet,storage,Advanced,"pine boards, plywood, wood screws, sandpaper, varnish","table saw, jointer, planer, router, drill press, orbital sander, clamps",10064,3549,YES,3-5 days,3
+Outdoor Lounge Chair,seating,Intermediate,"pine boards, pocket screws, wood filler, polyurethane","band saw, drill press, orbital sander, clamps, chisel, mallet",3234,1342,YES,1-2 days,0
+Butcher Block Countertop,tables,Advanced,"meranti boards, pocket screws, wood filler, polyurethane","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",12311,4115,YES,2-4 days,2
+Outdoor Lounge Chair,seating,Beginner,"meranti boards, dowels, sandpaper, paint","hand saw, hammer, tape measure, sandpaper, clamps",2909,932,YES,1-2 days,0
+Wooden Toys,kids,Intermediate,"hardwood scraps, child-safe varnish, sandpaper, dowels","circular saw, router, orbital sander, drill, clamps, tape measure",638,317,YES,2-4 hours,0
+Writing Desk,tables,Beginner,"reclaimed wood, steel brackets, sandpaper, linseed oil","hand saw, hammer, tape measure, sandpaper, clamps",2013,896,YES,1-2 days,0
+Shoe Rack,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",1527,527,YES,3-5 hours,3
+Computer Desk,tables,Beginner,"meranti boards, pocket screws, wood filler, polyurethane","hand saw, chisel, mallet, sandpaper, tape measure",1502,857,YES,1-2 days,0
+Knife Block,storage,Intermediate,"pine boards, plywood, wood screws, sandpaper, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",710,293,YES,2-3 hours,0
+Dresser,storage,Advanced,"meranti boards, metal hinges, wood screws, paint","table saw, band saw, router table, drill press, orbital sander, mortise chisel, mallet, clamps",7020,2242,NO,3-5 days,2
+Changing Table,bedroom,Intermediate,"oak lumber, dowels, wood glue, varnish","table saw, drill, orbital sander, clamps, router, square",4345,1153,NO,2-3 days,2
+Utensil Holder,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",363,143,YES,1-2 hours,3
+Patio Table,tables,Intermediate,"oak lumber, dowels, wood glue, varnish","circular saw, router, orbital sander, drill, clamps, tape measure",3355,1204,YES,1-2 days,0
+Bench with Backrest,seating,Beginner,"pine boards, pocket screws, wood filler, polyurethane","hand saw, hammer, tape measure, sandpaper, clamps",2402,1205,YES,1-2 days,2
+End Table,tables,Beginner,"oak lumber, dowels, wood glue, varnish","jigsaw, drill, tape measure, sandpaper, square",1705,723,NO,4-8 hours,2
+Pergola,outdoor,Advanced,"cedar boards, stainless screws, teak oil, sandpaper","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",13177,4821,NO,3-5 days,1
+Desk,tables,Advanced,"pine boards, metal legs, wood glue, wood oil","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",2776,884,YES,1-2 days,0
+Secretary Desk,tables,Intermediate,"pine boards, wood screws, sandpaper, wood stain","table saw, drill, orbital sander, clamps, router, square",3923,1802,YES,3-5 days,2
+Corner Shelves,storage,Beginner,"reclaimed wood, brackets, nails, linseed oil","circular saw, hammer, tape measure, clamps, level",967,377,YES,3-5 hours,0
+Dollhouse,kids,Advanced,"birch plywood, non-toxic finish, sandpaper, wood screws","CNC router, table saw, orbital sander, mortise chisel, mallet, clamps, router",3882,1749,YES,3-5 days,0
+Tool Chest,storage,Intermediate,"meranti boards, metal hinges, wood screws, paint","miter saw, drill, orbital sander, clamps, router, level",3005,1145,YES,2-3 days,0
+Writing Desk,tables,Beginner,"plywood sheets, hardwood edge banding, wood screws, lacquer","hand saw, chisel, mallet, sandpaper, tape measure",1823,828,YES,1-2 days,0
